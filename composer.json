@@ -1,0 +1,12 @@
+{
+    "name": "uavn/imagegen",
+    "description": "Image Generation",
+    "authors": [
+        {
+            "name": "Artem Bondarenko",
+            "email": "artbonvic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
